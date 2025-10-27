@@ -9,5 +9,6 @@ package cgpa.calculator;
  * @author bjc
  */
 public class GPA {
-    
+    int no_of_courses;
 }
+
